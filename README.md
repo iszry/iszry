@@ -6,7 +6,7 @@
 <td><img src="https://github-readme-stats.vercel.app/api?username=iszry&hide_title=true&hide_border=true&show_icons=true&theme=graywhite"></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iszry&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" ></td>
 </tr></table>
-
+<div align="center"> <img src="https://metrics.lecoq.io/iszry?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!---
 iszry/iszry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
