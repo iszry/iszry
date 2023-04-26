@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @iszry from BUAA learning CS currently.
-- 👀 I’m interested in mathematics and theoretical computer.
+- 👋 I’m interested in mathematics and theoretical computer.
 - 📫 Contact me: iszry@foxmail.com
 
 <table class="profileTable" style="width: 100%;border: none;"><tr>
