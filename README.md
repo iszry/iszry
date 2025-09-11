@@ -1,4 +1,5 @@
 - 📫 Contact me at iszry@foxmail.com
+- 👋 Interested in Computer Vision, Model Quantization, AIGC, MLLM, Gait Recognition, AI for Science
 
 <!---
 <table class="profileTable" style="width: 100%;border: none;"><tr>
