@@ -1,4 +1,4 @@
-- 📫 Contact me at iszry@foxmail.com
+- 📫 Contact me at zry@buaa.edu.cn
 - 👋 Interested in Computer Vision, Model Quantization, AIGC, MLLM, Gait Recognition, AI for Science
 
 <!---
