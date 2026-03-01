@@ -1,5 +1,5 @@
 - 📫 Contact me at zry@buaa.edu.cn
-- 👋 Interested in Computer Vision, Model Quantization, AIGC, MLLM, Gait Recognition, AI for Science
+- 👋 Interested in Model Quantization, AIGC, Gait Recognition, Agentic AI System
 
 <!---
 <table class="profileTable" style="width: 100%;border: none;"><tr>
